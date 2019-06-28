@@ -1,0 +1,6 @@
+C:\Users\vitos\source\repos\all_shutdown\all_shutdown\bin\Debug\all_shutdown.exe
+C:\Users\vitos\source\repos\all_shutdown\all_shutdown\bin\Debug\all_shutdown.pdb
+C:\Users\vitos\source\repos\all_shutdown\all_shutdown\obj\Debug\all_shutdown.csproj.CoreCompileInputs.cache
+C:\Users\vitos\source\repos\all_shutdown\all_shutdown\obj\Debug\all_shutdown.exe
+C:\Users\vitos\source\repos\all_shutdown\all_shutdown\obj\Debug\all_shutdown.pdb
+C:\Users\vitos\source\repos\all_shutdown\all_shutdown\bin\Debug\all_shutdown.exe.config
